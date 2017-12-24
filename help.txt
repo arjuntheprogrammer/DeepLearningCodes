@@ -1,0 +1,3 @@
+cd /home/arjun/Desktop/desktop111/DeepLearningCodes
+tensorboard --logdir="TF2"
+
